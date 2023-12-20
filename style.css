@@ -1,0 +1,298 @@
+*{
+padding: 0;
+margin: 0;
+}
+.glavniy{
+    width: 100%;
+    background-color: black;
+display: flex;
+}
+.text-bar{
+    display: flex;
+
+}
+
+.sbz{
+    background-color:  #009688;
+     
+}
+.text-bar h1{
+    padding: 10px 20px 10px 20px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+
+}
+.search{
+margin-left: 560px;
+}
+.bar-icon {
+    background-color: #009688;
+}
+.back-img{
+    width: 1050px;
+    height: 520px;
+    background-image: url(/img/photo_2023-11-20_20-32-53.jpg);
+    background-position: center;
+}
+.glavniy2{
+    width: 100%;
+    height: 400px;
+
+}
+.text-d2{
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    margin:auto;
+    margin-top: 20px;
+}
+.text-d2 h1{
+width: 100%;
+font-family: sans-serif;
+font-size: 25px;
+font-weight: 400;
+}
+.surato{
+    
+    display: flex;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    
+}
+.suratcho img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-left: 100px;
+
+}
+.suratcho h1{
+    margin-left: 80px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+}
+.suratcho p{
+    margin-left: 60px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-top: 20px;
+    color: rgb(57, 57, 57);
+}
+.glavniy3{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color: rgb(39, 39, 39);
+}
+.text-div{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    line-height: 20px;
+}
+.text-div h1{
+    padding:10px 10px 20px 10px;
+    color:whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+
+}
+.text-div p{
+    padding:10px 10px 20px 10px;
+    color:whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.div-img{
+    height: 450px;
+    width: 260px;
+    margin-left: 30px;
+    margin-top: 40px;
+    background-color: aliceblue;
+}
+.div-img h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 360;
+    font-size: 28px;
+    padding: 10px 50px 10px 10px;
+}
+.div-img h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 5px 50px 10px 10px;
+    
+
+}
+.div-img p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 5px 50px 10px 10px;
+}
+.div-img img{
+    height: 180px;
+    width: 260px;
+}
+.glavniy4{
+    width: 100%;
+    height: 700px;
+    background-color: aliceblue;
+}
+.basic p{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+    margin-top: 20px;
+}
+.text-price{
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.text-price h1{
+    color:  black;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400    ;
+    
+}
+.text-price p{
+    color:  black;
+    padding: 20px 10px 10px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.price1{
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+    box-shadow: 00px 00px 10px black;
+
+}
+.narx{
+    display: flex;
+    padding: 50px;
+}
+.basic{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.ph1{
+    color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    
+}
+.glavniy5{
+    width: 100%;
+    height: 500px;
+    display: flex;
+
+}
+.div-text5{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: 30px;
+}
+.div-text5 h1{
+    width: 200px;
+    border-bottom: 7px solid rgb(24, 184, 131);
+    font-weight: 400;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.div-text5 h2{
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+.div-text5 p{
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.div-bar{
+    width: 600px;
+    height: 300px;
+    margin-top: 20px; 
+    margin: auto;
+    box-shadow: 00px 00px 10px black;
+}
+.glavniy6{
+    background-color: black;
+}
+.glavniy6 img{
+    width: 1050px;
+    height: 700px;
+}
+.glavniy7{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+
+}
+.text-div7 {
+    width: 400px;
+    height:80px;
+    text-align: center;
+    margin-left: 300px;
+    color: white;
+}
+.text-div7 p{
+    width: 100%;
+    height: 100px;
+}
+
+.options1{
+    display: flex;
+    border-bottom: 1px solid black;
+
+}
+.div-bar h1{
+    width: 550px;
+    padding: 30px 20px 10px 20px;
+    border-bottom: 1px solid black;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.item{
+    width: 50%;
+    height: 300px;
+    box-shadow: 00px 00px 10px black;
+    padding: 10px;
+    margin-left: 80px;
+    margin: 60px;
+    margin-top: 80px;
+}
+.item p{
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+.igm-div7{
+    display: flex;
+    width: 400px;
+    height: 80px;
+    margin: auto;
+    padding: 30px;
+}
+.igm-div7 img{
+    width: 50px;
+    padding: 5px;
+
+    margin-left: 20px;
+}
